@@ -1,0 +1,20 @@
+.CodeMirror {
+    height: calc(100vh - 170px);
+}
+
+.CodeMirror, .CodeMirror * {
+    border-radius: 0;
+}
+
+.editor-toolbar {
+    border-radius: 0;
+}
+
+.content {
+    padding: 0 !important;
+}
+
+#saved {
+    font-weight: bold;
+}
+
